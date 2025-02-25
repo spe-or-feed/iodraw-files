@@ -58,11 +58,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mEfv4nCOAkMQbtyvVU01-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qs1YavGSdWs5Y3Rx0HDx-7">
+        <mxCell id="mEfv4nCOAkMQbtyvVU01-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qs1YavGSdWs5Y3Rx0HDx-7" target="mEfv4nCOAkMQbtyvVU01-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" y="-60" as="targetPoint" />
             <Array as="points">
               <mxPoint x="21" y="563" />
+              <mxPoint x="21" y="-35" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -125,13 +126,6 @@
         </mxCell>
         <mxCell id="QeszbJv3atGe5tBoT2C--18" value="Structure prototype&lt;br&gt;+evolutionary algorithm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="209" y="29.000000000000014" width="130" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="QeszbJv3atGe5tBoT2C--37" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="nxDL_WBRDxsQbySuBZQ--2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="125" as="sourcePoint" />
-            <mxPoint x="160" y="110" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="QeszbJv3atGe5tBoT2C--39" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QeszbJv3atGe5tBoT2C--17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
