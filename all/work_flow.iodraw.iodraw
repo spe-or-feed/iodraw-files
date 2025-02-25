@@ -58,7 +58,8 @@
               <mxPoint x="140" y="-20" />
               <mxPoint x="140" y="-17" />
               <mxPoint x="80" y="-17" />
-              <mxPoint x="80" y="-67" />
+              <mxPoint x="80" y="-20" />
+              <mxPoint x="110" y="-20" />
             </Array>
             <mxPoint x="57" y="670.02" as="sourcePoint" />
           </mxGeometry>
@@ -181,9 +182,6 @@
             <mxPoint x="380" y="487" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="mEfv4nCOAkMQbtyvVU01-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mEfv4nCOAkMQbtyvVU01-1" target="nxDL_WBRDxsQbySuBZQ--1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mEfv4nCOAkMQbtyvVU01-1" value="Crystal Structure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="-89.99999999999999" width="113" height="46" as="geometry" />
