@@ -57,7 +57,8 @@
               <mxPoint x="19" y="-20" />
               <mxPoint x="140" y="-20" />
               <mxPoint x="140" y="-17" />
-              <mxPoint x="380" y="-17" />
+              <mxPoint x="80" y="-17" />
+              <mxPoint x="80" y="-67" />
             </Array>
             <mxPoint x="57" y="670.02" as="sourcePoint" />
           </mxGeometry>
