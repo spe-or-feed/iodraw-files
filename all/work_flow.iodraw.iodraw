@@ -48,7 +48,7 @@
         <mxCell id="Qs1YavGSdWs5Y3Rx0HDx-5" value="Atomistic spin model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="45.000000000000036" y="462" width="133" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Qs1YavGSdWs5Y3Rx0HDx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Qs1YavGSdWs5Y3Rx0HDx-7" edge="1">
+        <mxCell id="Qs1YavGSdWs5Y3Rx0HDx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Qs1YavGSdWs5Y3Rx0HDx-7" target="mEfv4nCOAkMQbtyvVU01-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="268" y="29" as="targetPoint" />
             <Array as="points">
@@ -56,6 +56,7 @@
               <mxPoint x="19" y="568" />
               <mxPoint x="19" y="-20" />
               <mxPoint x="268" y="-20" />
+              <mxPoint x="268" y="-17" />
             </Array>
             <mxPoint x="57" y="670.02" as="sourcePoint" />
           </mxGeometry>
@@ -180,7 +181,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mEfv4nCOAkMQbtyvVU01-1" value="Crystal Structure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="144.00000000000003" y="-39.999999999999986" width="113" height="46" as="geometry" />
+          <mxGeometry x="330" y="-29.999999999999986" width="113" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
