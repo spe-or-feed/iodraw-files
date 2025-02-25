@@ -78,7 +78,7 @@
         <mxCell id="QeszbJv3atGe5tBoT2C--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QeszbJv3atGe5tBoT2C--6" target="QeszbJv3atGe5tBoT2C--14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QeszbJv3atGe5tBoT2C--6" value="phono spectra" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="QeszbJv3atGe5tBoT2C--6" value="phonon spectra" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="55.000000000000036" y="245" width="113" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QeszbJv3atGe5tBoT2C--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QeszbJv3atGe5tBoT2C--9" target="Qs1YavGSdWs5Y3Rx0HDx-5" edge="1">
