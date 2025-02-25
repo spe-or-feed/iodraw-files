@@ -57,11 +57,7 @@
               <mxPoint x="19" y="-20" />
               <mxPoint x="140" y="-20" />
               <mxPoint x="140" y="-17" />
-              <mxPoint x="80" y="-17" />
-              <mxPoint x="80" />
-              <mxPoint x="150" />
-              <mxPoint x="150" y="-67" />
-              <mxPoint x="190" y="-67" />
+              <mxPoint x="190" y="-17" />
               <mxPoint x="190" y="-50" />
             </Array>
             <mxPoint x="57" y="670.02" as="sourcePoint" />
