@@ -175,8 +175,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mEfv4nCOAkMQbtyvVU01-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEfv4nCOAkMQbtyvVU01-10" target="QeszbJv3atGe5tBoT2C--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mEfv4nCOAkMQbtyvVU01-10" value="CALYPSO Search" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-40" width="280" height="50" as="geometry" />
+          <mxGeometry x="60" y="-60" width="280" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
