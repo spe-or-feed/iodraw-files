@@ -175,6 +175,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mEfv4nCOAkMQbtyvVU01-9" value="Crystal Structure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="65.00000000000003" y="39.000000000000014" width="113" height="46" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
